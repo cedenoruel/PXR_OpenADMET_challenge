@@ -17,7 +17,8 @@ Deep Learning vs Classical Methods in Potency and ADME Prediction: Insights from
 **Algorithms**: weighted average ensemble of multiple models without hyperparameter tuning
 - Message passing neural network (MPNN) as implemented in ChemProp 2.2
 - Transformer pretrained on tabular data as implemented in TabPFNv2
-- Classical tree based models: Random Forest, LightGBM, XGBoost 
+- Classical tree based models: Random Forest, LightGBM, XGBoost
+- AutoGluon ensembles (extreme preset)
   
 **Additional Molecular Features**
 - Structural fingerprints: ECFP4, FCFP4, Avalon
