@@ -30,9 +30,10 @@ Deep Learning vs Classical Methods in Potency and ADME Prediction: Insights from
 - Only publicly available data were leveraged.
 
 **Performance comments**  
-- Autogluon models led to some of best-performing individual models
-- Feature augmentation via meta-models trained on single-dose data plus ADME predictions helped
+- Feature augmentation via meta-models trained on single-dose data plus ADME predictions boosted performance
 - Large errors in low activity regions
+- Autogluon led to some of my best-performing individual models
+- Ensembling multiple models improved performance
 
 (Structure track)
 - Boltz2 and ESMFold2 used out-of-the-box, best IPTM is selected  
