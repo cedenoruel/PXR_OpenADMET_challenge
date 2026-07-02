@@ -12,7 +12,7 @@ This repository describes my submission to the OpenADMET PXR Blind Challenge
 
 # Introduction
 
-This submission intentionally adopts a minimalist modeling strategy to reflect the realities of drug discovery, where predictive models often need to be developed under tight deadlines. To mimic this, the entire modeling effort using the unblinded training dataset was initiated only a few days before the challenge submission deadline. Given this compressed timeline, our objective was not to exhaustively optimize model performance but to establish a baseline that leveraged a semi-autonomous agent (in this case, Claude) for brainstorming modeling strategies, generating code, and implementing iterative improvements. The initial prompt referenced both the challenge website and scripts from our previous challenge submissions, allowing Claude to build upon an existing codebase rather than starting from scratch.
+This submission intentionally adopts a minimalist modeling strategy to reflect the realities of drug discovery, where predictive models often need to be developed under tight deadlines. To mimic this, the entire modeling effort using the unblinded training dataset was initiated only a few days before the challenge submission deadline. Given this compressed timeline, our objective was not to exhaustively optimize model performance but to establish a baseline that leverages a semi-autonomous agent (in this case, Claude) for brainstorming modeling strategies, generating code, and implementing iterative improvements. The initial prompt referenced both the challenge website and scripts from our previous challenge submissions, allowing Claude to build upon an existing codebase rather than starting from scratch.
 
 Reference:
 
