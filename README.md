@@ -1,4 +1,4 @@
-# PXR_OpenADMET_challenge
+# PXR OpenADMET Challenge
 
 This repository describes my submission to the OpenADMET PXR Blind Challenge
 
