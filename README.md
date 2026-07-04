@@ -14,6 +14,14 @@ This repository describes my submission to the OpenADMET PXR Blind Challenge
 
 This submission intentionally adopts a minimalist modeling strategy to reflect the realities of drug discovery, where predictive models often need to be developed under tight deadlines. To mimic this, the entire modeling effort using the unblinded training dataset was initiated only a few days before the challenge submission deadline. Given this compressed timeline, our objective was not to exhaustively optimize model performance but to establish a baseline that leverages a semi-autonomous agent (in this case, Claude) for brainstorming modeling strategies, generating code, and implementing iterative improvements. The initial prompt referenced both the challenge website and scripts from our previous challenge submissions, allowing Claude to build upon an existing codebase rather than starting from scratch.
 
+# Leaderboard Results
+
+| Phase | Compound set | Rank | Performance Tier | MAE | R2 | Spearman | Kendall |
+|:-----:|:-------------|:----:|:----------------:|-----:|-----:|--------:|--------:|
+| 1 | Analog Set 1 & 2 | 3 | Tier 1 | 0.4057 | 0.6427 | 0.8293 | 0.6449 |
+| 1 | Analog Set 2 only | -- | -- | 0.4189 | 0.5818 | 0.8103 | 0.6220 |
+| 2 | Analog Set 2 only | 17 | Tier 1 | 0.4275 | 0.5608 | 0.8035 | 0.6188 |
+
 Reference:
 
 Deep Learning vs Classical Methods in Potency and ADME Prediction: Insights from a Computational Blind Challenge.  
