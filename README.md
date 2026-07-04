@@ -16,8 +16,6 @@ This submission intentionally adopts a minimalist modeling strategy to reflect t
 
 # Leaderboard Results
 
-Out of **350 participants**:
-
 | Phase | Compound set | Rank | Performance Tier | MAE | R2 | Spearman | Kendall |
 |:-----:|:-------------|:----:|:----------------:|-----:|-----:|--------:|--------:|
 | 1 | Analog Set 1 & 2 | 3/350 | ![Tier 1](https://img.shields.io/badge/Tier%201-2ea44f) | 0.4057 | 0.6427 | 0.8293 | 0.6449 |
