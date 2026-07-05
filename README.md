@@ -18,6 +18,8 @@ This submission intentionally adopts a minimalist modeling strategy to reflect t
 
 > **Tier 1** indicates statistically equivalent performance to the #1 submission.
 
+Interestingly, the Phase 1 model built without the unblinded Analog Set 1 compounds performed better than the retrained Phase 2 model. Although both are statistically Tier 1, the submitted Phase 1 model would have had an MAE of 0.4189 (rank #9) on the Phase 2 LB.
+
 Reference:
 
 Deep Learning vs Classical Methods in Potency and ADME Prediction: Insights from a Computational Blind Challenge.  
