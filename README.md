@@ -14,11 +14,11 @@ This submission intentionally adopts a minimalist modeling strategy to reflect t
 |:-----:|:-------------|:----:|:----------------:|-----:|-----:|--------:|--------:|
 | 1 | Analog Set 1 & 2 | 3/350 | 🟢 **Tier 1** | 0.4057 | 0.6427 | 0.8293 | 0.6449 |
 | 1 | Analog Set 2 only | -- | -- | 0.4189 | 0.5818 | 0.8103 | 0.6220 |
-| 2 | Analog Set 2 only | 17/350 | 🟢 **Tier 1** | 0.4275 | 0.5608 | 0.8035 | 0.6188 |
+| 2 | Analog Set 2 only | 20/350 | 🟢 **Tier 1** | 0.4275 | 0.5608 | 0.8035 | 0.6188 |
 
 > **Tier 1** indicates statistically equivalent performance to the #1 submission.
 
-Interestingly, the Phase 1 model built without the unblinded Analog Set 1 compounds performed better than the retrained Phase 2 model. Although both are statistically Tier 1, the submitted Phase 1 model would have had an MAE of 0.4189 (rank #9) on the Phase 2 LB.
+Interestingly, the Phase 1 model built without the unblinded Analog Set 1 compounds performed better than the retrained Phase 2 model. Although both are statistically Tier 1, the submitted Phase 1 model would have had an MAE of 0.4189 on the Phase 2 LB.
 
 Reference:
 
